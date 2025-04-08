@@ -9,7 +9,7 @@ on:
       - main
 
 jobs:
-  windows-job:
+  build:
     name: Test on Windows
     runs-on: windows-latest
     steps:
