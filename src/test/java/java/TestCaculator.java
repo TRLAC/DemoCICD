@@ -19,3 +19,4 @@ public class TestCaculator {
 		Assert.assertEquals(caculator.sub(2,2),0);
 	}
 }
+
